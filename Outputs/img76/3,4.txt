@@ -1,0 +1,7 @@
+“eax
+|
+[ ; =.
+bd
+-_ Goodbye germs, -
+, hello life.
+> al
